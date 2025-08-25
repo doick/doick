@@ -20,7 +20,7 @@
 ### Gothic Modding
 
 - **[Golden Gate 2: Goddess Heart](https://goldengatemod.com/index.html)** – Non-profit total conversion mod for the game Gothic II: Night of the Raven, continuing the classic Golden Gate mod with new story and content.
-- **[zDExtensions](https://github.com/Doick-Union-Workshop/zDExtensions)** – Set of [Union](https://gitlab.com/union-framework/union-api) plugins containing new external functions and useful hooks for Gothic games. Based on new Union API with C++, CMake and automatized with GitHub Actions.
+- **[zDExtensions](https://github.com/Doick-Union-Workshop/zDExtensions)** – [Union](https://gitlab.com/union-framework/union-api) plugin containing new external functions and useful hooks for Gothic games. Based on new Union API with C++, CMake and automatized with GitHub Actions.
 
 ## 📬 Contact
 
